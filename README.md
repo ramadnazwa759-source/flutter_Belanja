@@ -24,11 +24,17 @@ Navigator.pushNamed(context, '/item', arguments: item);
 final itemArgs = ModalRoute.of(context)!.settings.arguments as Item;
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/717decf6-e48c-42fc-b16e-ca709d51abae" />
 
-4. Tambahkan atribut foto produk, stok, dan rating. Ubahlah tampilan menjadi GridView seperti di aplikasi marketplace pada umumnya.
+3. Tambahkan atribut foto produk, stok, dan rating. Ubahlah tampilan menjadi GridView seperti di aplikasi marketplace pada umumnya.
 Ubahlah tampilan menjadi GridView yaitu tampilan menjadi 2 kolom
 <img width="794" height="1000" alt="image" src="https://github.com/user-attachments/assets/bfb28134-0dcb-4627-b7c2-9acc4c21942e" />
 
-5. 
+4. implementasikan Hero widget pada aplikasi belanja
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/f2662aeb-879b-47dd-ac8b-61f2cc68b25b" />
+Hasil
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/0e7f454e-d0f6-4fd3-b85e-eac211654fd2" />
+
+5. Tambahkan Nama dan Nim
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/4e107716-e8f2-4976-b737-c697f9f613b2" />
 
 
 
