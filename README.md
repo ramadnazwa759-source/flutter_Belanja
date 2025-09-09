@@ -16,6 +16,10 @@ hasil akhir
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/72066536-90f8-478f-90b3-5fd1d8216aab" />
 
 ## Tugas Praktikum 2
+1. Untuk melakukan pengiriman data ke halaman berikutnya, cukup menambahkan informasi arguments pada penggunaan Navigator.
+# Navigator.pushNamed(context, '/item', arguments: item);
+<img width="1464" height="1564" alt="carbon" src="https://github.com/user-attachments/assets/36c7ddb6-316f-4b9a-b808-1ac0d9af0966" />
+
 
 
 
