@@ -1,4 +1,4 @@
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/c0a9f96b-4834-4bdf-be0b-60e2884802b7" />#  Konsep Navigasi dan Rute Dari Layout Belanja
+#  Konsep Navigasi dan Rute Dari Layout Belanja
 
 ## Praktikum 5: Membangun Navigasi di Flutter
 - Langkah 1 : Siapkan project baru
@@ -16,6 +16,7 @@ hasil akhir
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/72066536-90f8-478f-90b3-5fd1d8216aab" />
 
 ## Tugas Praktikum 2
+
 
 
  
